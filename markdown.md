@@ -4,6 +4,7 @@ git config --global user.name 'saizhou1'
 * *设置用户名邮箱*
 git config --global user.email '1220186642@qq.com'
 ##linux 命令
+
 |命令|解释|
 |----|----|
 | touch | 创建文件|
