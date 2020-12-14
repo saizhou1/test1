@@ -43,6 +43,8 @@ rm -rf a1.php
 git rm a1.php
 #####提交操作
 git commit -m '提交描述'
+git push   提交到github账户
+
 |命令|解释|
 |----|----|
 |git config --list| 查看配置，如用户名和邮箱|
